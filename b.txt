@@ -1,2 +1,5 @@
 test
 ----
+git log --oneline
+
+ git log --graph --pretty=oneline --abbrev-commit
